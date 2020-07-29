@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jerryrain/ardrone_simulator/src/Robotic_simulation/armcontrol/include/armcontrol/mathtools.h
+iostream
+-
+math.h
+-
+vector
+-
+eigen3/Eigen/Dense
+/home/jerryrain/ardrone_simulator/src/Robotic_simulation/armcontrol/include/armcontrol/eigen3/Eigen/Dense
+
+/home/jerryrain/ardrone_simulator/src/Robotic_simulation/armcontrol/src/control/mathtools.cpp
+armcontrol/mathtools.h
+/home/jerryrain/ardrone_simulator/src/Robotic_simulation/armcontrol/src/control/armcontrol/mathtools.h
+

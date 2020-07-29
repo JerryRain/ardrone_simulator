@@ -1,0 +1,8 @@
+prefix=/home/jerryrain/ardrone_simulator/devel
+
+Name: pigot_moveit_config
+Description: Description of pigot_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/jerryrain/ardrone_simulator/devel/lib 
+Requires: 
